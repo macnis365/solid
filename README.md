@@ -1,8 +1,8 @@
 # S.O.L.I.D Principles (java examples)
 
-* **Single responsibility principle** - A class should have only one reason to change.
+* **Single responsibility principle** -A class should have one and only one reason to change, meaning that a class should only have one job.
 
-* **Open/Closed principle - Software** entities (classes, modules, functions, etc.) should be open for extension, but closed for modification.
+* **Open/Closed principle - Software** Objects or entities should be open for extension, but closed for modification.
 
 * **Liskov Substitution Principle** - Child classes should never break the parent class type definitions.
 
